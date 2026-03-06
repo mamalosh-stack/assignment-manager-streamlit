@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1",
+        "email": "admin@school.edu",
+        "full_name": "System Admin",
+        "password": "123ssag@43AE",
+        "role": "Admin",
+        "registered_at": "2026-03-06 10:37:58.272013"
+    },
+    {
+        "id": "86c50af2-9808-4ef8-a284-8c2571e59dfd",
+        "email": "mamalosh@udel.edu",
+        "full_name": "Marissa Malosh",
+        "password": "Mlosh1106!",
+        "role": "Instructor",
+        "registered_at": "2026-03-06 10:50:39.961988"
+    }
+]
